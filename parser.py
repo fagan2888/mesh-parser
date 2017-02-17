@@ -159,7 +159,7 @@ UI = C535306
 def parse_suppl_records(mesh_supp_path, semantic_types = None):
     attributes = {'HM': "mapped_to",
                   'MR': "last_updated",
-                  'NM': "tree",
+                  'NM': "name",
                   'NO': "note",
                   'RECTYPE': "record_type",
                   'ST': "semantic_type",
