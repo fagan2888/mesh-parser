@@ -1,3 +1,6 @@
+# https://tools.wmflabs.org/mix-n-match/import.php
+# https://meta.wikimedia.org/wiki/Mix%27n%27match/Manual
+
 import json
 
 mesh_tree = {'A': 'Anatomy',
